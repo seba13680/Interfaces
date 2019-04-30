@@ -1,0 +1,7 @@
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\GitHubRepos\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
